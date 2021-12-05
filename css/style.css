@@ -114,7 +114,7 @@ margin-top: 10px;
     position: absolute;
    
 }
-.icon-b img:last-child:hover{
+.icon-b img:last-child:active{
     opacity: 0%;
 }
 
